@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SeaBattle.WinForms\\SeaBattle.WinForms.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SeaBattle.Server\\SeaBattle.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
